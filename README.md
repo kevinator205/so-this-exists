@@ -31,3 +31,28 @@ hey now
 this is a song
 from the freaking shrek movie
 #print yay
+
+using System;
+
+namespace ConsoleApplication
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+using System;
+
+namespace ConsoleApplication
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
