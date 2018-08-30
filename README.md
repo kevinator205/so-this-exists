@@ -36,7 +36,7 @@ using System;
 
 namespace ConsoleApplication
 {
-    public class Program
+    public class Progam
     {
         public static void Main()
         {
